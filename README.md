@@ -1,8 +1,8 @@
-# TNG eWallet Transaction Analysis
+# Team Peak
 
 ## Project info
 
-A React-based transaction analysis dashboard for TNG eWallet data.
+A React-based front end application
 This is a quick frontend demo to replicate submission to the AWS API Gateway to the LHDN e-invoicing validator.
 After the e-invoice is submitted the correct UUID will be obtained from the AWS API.
 
