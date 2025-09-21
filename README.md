@@ -3,6 +3,8 @@
 ## Project info
 
 A React-based transaction analysis dashboard for TNG eWallet data.
+This is a quick frontend demo to replicate submission to the AWS API Gateway to the LHDN e-invoicing validator.
+After the e-invoice is submitted the correct UUID will be obtained from the AWS API.
 
 ## How can I edit this code?
 
